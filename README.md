@@ -3,8 +3,7 @@
 **`Desenvolvedor em formação`**
 
 Olá, Me chamo Albert Vinícios, tenho 28 anos. Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC, atualmente no 4º semestre. Formado em Gestão Comercial, atuei por vários anos na área administrativa, onde desenvolvi habilidades importantes como **organização, análise de informações e melhoria de processos**, competências que hoje aplico também nos estudos e projetos.
-Atualmente em transição de carreira para a área de Tecnologia da Informação. Sempre tive interesse por resolver problemas e entender como as coisas funcionam, e foi isso que me levou ao mundo da programação. Você também pode me encontrar no LinkedIn: **[linkedin.com/in/albertvinicios](https://www.linkedin.com/in/albertvinicios/)💼** ou
-E-mail: **albert-vinicios@hotmail.com📧**
+Atualmente em transição de carreira para a área de Tecnologia da Informação. Sempre tive interesse por resolver problemas e entender como as coisas funcionam, e foi isso que me levou ao mundo da programação.
 
 <p align="left">
     <a href="https://github.com/Albertvinicios?tab=repositories&sort=stargazers">
@@ -121,14 +120,13 @@ E-mail: **albert-vinicios@hotmail.com📧**
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
-
+/>  
 <br/>
-<br/>
+<br/>  
+---
 
 ### 📊 Estatísticas
 
-<br/>
 <p>
   <img 
     align="left" 
@@ -143,11 +141,10 @@ E-mail: **albert-vinicios@hotmail.com📧**
       height="300"
       style="padding-right: 10px;"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertvinicios&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+</p>  
 
----
+## 📱📠Fale Comigo  
 
-## 📱📠Fale Comigo
 <img align="left" 
     alt="Linkedin"
     title="Linkedin" 
@@ -160,4 +157,4 @@ E-mail: **albert-vinicios@hotmail.com📧**
     title="Hotmail" 
     width="25px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/> **albert-vinicios@hotmail.com**
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/> **albert-vinicios@hotmail.com**  
