@@ -22,7 +22,7 @@ Atualmente em transição de carreira para a área de Tecnologia da Informação
 </p>  
 
 ---
-### 📱📠Fale Comigo  
+### 📱Fale Comigo  
   
 <img align="left" 
     alt="Linkedin"
